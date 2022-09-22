@@ -4,10 +4,9 @@ Hi, this is a simple project website I created using Reactjs + vite, there are o
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install all the dependencies in the Hivedeck project/hivedeck directory.
+Use the package manager [npm](https://www.npmjs.com/) to install all the dependencies in the hivedeck directory.
 
 ```bash
-cd Hivedeck project/hivedeck
 npm install
 ```
 
